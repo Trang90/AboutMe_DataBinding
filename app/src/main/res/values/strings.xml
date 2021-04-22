@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, my name is Trang
+        \n\nChán vllll
+        \nCái này là 1 n nè
+        \nChán vllll
+        \nChán vllll
+        \nChán vllll
+        \nChán vllll
+        \nChán vllll
+        \nChán vllll
+        \nChán vllll
+        \nChán vllll
+        \nChán vllll
+
+    </string>
+    <string name="what_is_ur_nickname">What is your nickname?</string>
+</resources>
